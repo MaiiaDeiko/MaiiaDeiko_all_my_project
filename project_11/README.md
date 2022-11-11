@@ -1,7 +1,7 @@
 # Создание дашборда по пользовательским событиям для агрегатора новостей
 Проект был выполнен в ходе обучения в Яндекс.Практикуме, профессии `Аналитик данных`
 ## Статус проекта: `завершен`
-## Посмотреть [Презентацию](https://drive.google.com/file/d/1w8lT3_eg2TWot-109NwJcI9GTr5XTUU0/view?usp=sharing) 
+## Посмотреть [Презентацию](https://drive.google.com/file/d/1w8lT3_eg2TWot-109NwJcI9GTr5XTUU0/view?usp=sharing)(PDF) 
 ## Посмотреть [Дашборд в Tableau](https://public.tableau.com/app/profile/maiia.deiko/viz/project_automation_16648171816430/Dashboard1)
 ## Задачи проекта
 Используя данные Яндекс.Дзена построить дашборд с метриками взаимодействия пользователей с карточками статей.
