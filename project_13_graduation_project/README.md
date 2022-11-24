@@ -36,8 +36,12 @@
 * классификация
 * кластеризация
 * статистические гипотезы
-# 2. Проект по А/B-тестированию
-
+# [2. Проект по А/B-тестированию](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/A_B_tests.ipynb)
+## Цели исследования:   
+> jjjj  
+## Выводы
+> mmmm
+##  Использованы навыки и инструменты
 # [3. Задачи по SQL](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/SQL.ipynb)
 ## Цели исследования:   
 > Проанализировать базу данных, которая содержит информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг.  
