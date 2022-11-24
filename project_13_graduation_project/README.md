@@ -7,7 +7,7 @@
 Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии `Аналитик данных`
 ## Статус проекта: `завершен`
 
-#  1. E-commerce - Выявление профилей потребления
+#  [1. E-commerce - Выявление профилей потребления](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/e_commerce.ipynb)
 > Ссылка на [презентацию](https://drive.google.com/file/d/1dbmN7WAEPSFE9_7EIZ4luUrmWruINsID/view?usp=sharing)       
 > Ссылка на [дашборд](https://public.tableau.com/app/profile/maiia.deiko/viz/new_ecomm/Dashboard)   
 ## Задачи проекта
@@ -38,7 +38,7 @@
 * статистические гипотезы
 # 2. А/В ТЕСТЫ
 
-# 3. [Задачи по SQL](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/SQL.ipynb)
+# [3. Задачи по SQL](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/SQL.ipynb)
 ## Цели исследования:   
 > Проанализировать базу данных, которая содержит информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг.  
 ## Выводы
