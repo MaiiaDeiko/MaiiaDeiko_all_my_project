@@ -3,7 +3,7 @@
 
 ## 1. Проект в сфере e-commerce + презентация + дашборд,  
 ## 2. Проект, содержащий задачи по A/B-тестированию,
-## 3. SQL.
+## 3. [SQL](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/README.md#3-%D0%B7%D0%B0%D0%B4%D0%B0%D1%87%D0%B8-%D0%BF%D0%BE-sql)
 Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии `Аналитик данных`
 ## Статус проекта: `завершен`
 
