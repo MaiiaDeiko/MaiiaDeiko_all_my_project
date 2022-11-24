@@ -10,7 +10,6 @@
 #  [1. E-commerce - Выявление профилей потребления](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/e_commerce.ipynb)
 > Ссылка на [презентацию](https://drive.google.com/file/d/1dbmN7WAEPSFE9_7EIZ4luUrmWruINsID/view?usp=sharing)       
 > Ссылка на [дашборд](https://public.tableau.com/app/profile/maiia.deiko/viz/new_ecomm/Dashboard)   
-## Задачи проекта
 ## Описание
 > **Заказчик:** интернет-магазин    
 > **Цель заказчика:** сформировать рекламную рассылку.   
@@ -37,11 +36,23 @@
 * кластеризация
 * статистические гипотезы
 # [2. Проект по А/B-тестированию](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/A_B_tests.ipynb)
-## Цели исследования:   
-> jjjj  
+## Описание:   
+> Ваша задача — провести оценку результатов A/B-теста. 
+> В вашем распоряжении есть датасет с действиями пользователей, техническое задание и несколько вспомогательных датасетов.
+* Оцените корректность проведения теста
+* Проанализируйте результаты теста
 ## Выводы
-> mmmm
+> Результаты теста показали, что улучшение метрик не было достигнуто
+> Корректность проведения теста вызывает сомнения
 ##  Использованы навыки и инструменты
+* pandas 
+* numpy
+* seaborn 
+* scipy
+* plotly 
+* math 
+* matplotlib
+* гипотезы
 # [3. Задачи по SQL](https://github.com/MaiiaDeiko/My_skills_in_Data_Analytics/blob/main/project_13_graduation_project/SQL.ipynb)
 ## Цели исследования:   
 > Проанализировать базу данных, которая содержит информацию о книгах, издательствах, авторах, а также пользовательские обзоры книг.  
