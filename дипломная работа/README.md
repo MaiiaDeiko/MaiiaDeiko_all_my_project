@@ -7,8 +7,8 @@
 Проекты были выполнены в ходе обучения в Яндекс.Практикуме, профессии `Аналитик данных`
 ## Статус проекта: `завершен`
 ##  1. E-commerce - Выявление профилей потребления
-> Ссылка на [презентацию](https://drive.google.com/file/d/1mnMKy7NEOJ5mRBE3yqu3MATqQr-WOiFs/view?usp=sharing)       
-> Ссылка на дашборд   
+> Ссылка на [презентацию](https://drive.google.com/file/d/1dbmN7WAEPSFE9_7EIZ4luUrmWruINsID/view?usp=sharing)       
+> Ссылка на [дашборд](https://public.tableau.com/app/profile/maiia.deiko/viz/new_ecomm/Dashboard)   
 ## Задачи проекта
 ## Описание
 > **Заказчик:** интернет-магазин    
@@ -35,3 +35,6 @@
 * классификация
 * кластеризация
 * статистические гипотезы
+# 2. А/В ТЕСТЫ
+
+# Задачи по SQL
